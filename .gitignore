@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.sqlite   # If you use SQLite for your database, it's common to ignore its files.
+
